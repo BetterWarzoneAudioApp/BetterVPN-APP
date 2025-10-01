@@ -1,87 +1,107 @@
-BetterVPN - Premium VPN Client
-==============================
+# BetterVPN - Premium VPN Client
 
-Version: 1.0.0
-Publisher: Better Studio
-Copyright: © 2025 Better Studio. All rights reserved.
+<div align="center">
+  <img src="public/icon.ico" alt="BetterVPN Logo" width="128" height="128">
+  
+  **VPN client with full OpenVPN integration**
+  
+  [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/betterstudio/bettervpn)
+  [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+  [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
+</div>
 
-OVERVIEW
---------
-BetterVPN is a premium VPN client with ultra-modern gaming design and full OpenVPN integration. 
-All resources are fully embedded in the executable for maximum security and portability.
+## 🚀 Overview
 
-FEATURES
---------
-✓ Ultra-modern gaming-inspired UI
-✓ Full OpenVPN integration
-✓ 12+ server locations worldwide
-✓ Real-time connection statistics
-✓ Discord Rich Presence integration
-✓ Kill switch functionality
-✓ Auto-reconnect capabilities
-✓ TAP-Windows driver integration
-✓ Fully embedded resources (no external dependencies)
+BetterVPN is a premium VPN client featuring an UI, full OpenVPN integration, and comprehensive security features. It provides a seamless VPN experience for Windows users.
 
-INSTALLATION
-------------
-1. Run BetterVPN-Setup.exe as Administrator
-2. Follow the installation wizard
-3. The installer will automatically:
-   - Install BetterVPN core application
-   - Install OpenVPN binaries and libraries
-   - Install TAP-Windows network adapter (if needed)
+## ✨ Features
+
+### 🎮 Modern Gaming UI
+- **design** with smooth animations
+- **Dark theme** optimized for extended use
+- **Interactive world map** showing server locations
+- **Real-time connection statistics** and speed monitoring
+- **Custom window decorations** for immersive experience
+
+### 🔒 Security & Privacy
+- **Full OpenVPN integration** with embedded binaries
+- **Kill switch functionality** for connection protection
+- **Auto-reconnect capabilities** with smart retry logic
+- **TAP-Windows driver integration** for secure networking
+- **No data logging or tracking** - complete privacy
+- **Hardware ID verification** for enhanced security
+
+### 🌍 Global Server Network
+- **12+ server locations** worldwide
+- **Real-time server status** monitoring
+- **Optimized server selection** based on performance
+- **Secure server configurations** for all locations
+
+### 🔧 Advanced Features
+- **Discord Rich Presence** integration
+- **Automatic updates** with secure verification
+- **Standalone application** - no external dependencies
+- **User authentication** with secure session management
+- **Trial period support** for new users
+
+## 📋 System Requirements
+
+- **OS**: Windows 10 or later (64-bit recommended)
+- **RAM**: Minimum 4GB
+- **Storage**: 100MB free disk space
+- **Network**: Internet connection for VPN functionality
+- **Privileges**: Administrator rights for installation
+
+## 🚀 Installation
+
+1. Download `BetterVPN-Setup.exe` from the [Releases](https://github.com/betterstudio/bettervpn/releases) page
+2. Run the installer as Administrator
+3. Follow the installation wizard
+4. The installer will automatically:
+   - Install BetterVPN application
+   - Install required network components
    - Create desktop and start menu shortcuts
 
-SYSTEM REQUIREMENTS
--------------------
-- Windows 10 or later (64-bit recommended)
-- Administrator privileges for installation
-- Internet connection for VPN functionality
-- Minimum 100MB free disk space
+## 🔒 Security
 
-EMBEDDED RESOURCES
-------------------
-All resources are embedded in the executable:
-- OpenVPN binaries and libraries
-- Server configuration files (.ovpn)
-- Application icons and assets
-- Settings and configuration files
-- TAP-Windows installer
+- **Secure Protocols**: Uses industry-standard OpenVPN protocols
+- **Kill Switch**: Automatic connection termination if VPN fails
+- **No Data Logging**: Complete privacy protection
+- **Secure Authentication**: Hardware ID-based verification system
 
-No external directories or files are created outside the installation folder.
+## 🐛 Troubleshooting
 
-SECURITY
---------
-- All server configurations are embedded and encrypted
-- No external configuration files
-- Secure connection protocols
-- Kill switch for connection protection
-- No data logging or tracking
+### Common Issues
+- **VPN connection fails**: Ensure network components are properly installed
+- **Permission errors**: Run as Administrator
+- **Firewall issues**: Check Windows Firewall settings
+- **Other VPN conflicts**: Disable other VPN software
 
-SUPPORT
--------
-Website: https://bettervpn.com
-Support: https://bettervpn.com/support
-Documentation: https://bettervpn.com/docs
+### Getting Help
+1. Check the [Issues](https://discord.gg/Hj4YC3ZV6U)
+2. Contact [support at](https://discord.gg/Hj4YC3ZV6U)
 
-UNINSTALLATION
---------------
-1. Go to Control Panel > Programs > BetterVPN
-2. Click "Uninstall"
-3. Choose whether to remove TAP-Windows adapter
+## 🗑️ Uninstallation
+
+1. Go to **Control Panel > Programs > BetterVPN**
+2. Click **"Uninstall"**
+3. Choose whether to remove network components
 4. All files will be removed from the system
 
-TROUBLESHOOTING
----------------
-- If VPN connection fails, ensure TAP-Windows is installed
-- Run as Administrator if you encounter permission issues
-- Check Windows Firewall settings
-- Ensure no other VPN software is running
+## 📄 License
 
-LICENSE
--------
-This software is licensed under the MIT License.
-See LICENSE.txt for full license terms.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Better Studio - Premium VPN Solutions
-=====================================
+## 📞 Support & Contact
+
+- **Website**: [https://bettervpn.com](https://bettervpn.com)
+- **Support**: [https://bettervpn.com/support](https://bettervpn.com/support)
+- **Documentation**: [https://bettervpn.com/docs](https://bettervpn.com/docs)
+- **Email**: [support@bettervpn.com](mailto:support@bettervpn.com)
+
+---
+
+<div align="center">
+  <strong>Better Studio - Premium VPN Solutions</strong><br>
+  © 2025 Better Studio. All rights reserved.
+</div>
