@@ -39,4 +39,4 @@
 <div align="center">
   <strong>Better Studio - Premium VPN Solutions</strong><br>
   © 2025 Better Studio. All rights reserved.
-</div>
+</div> 
